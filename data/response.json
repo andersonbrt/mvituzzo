@@ -1,0 +1,19 @@
+{
+    "sucesso": true,
+    "id": "26",
+    "mensagem": "Lead cadastrado com sucesso. Foi associado à imobiliária  e ao corretor DR-CarlaRocha, <b><a href=\"https://cury.cvcrm.com.br/gestor/comercial/leads/26/administrar\">clique aqui</a></b> para administrar.",
+    "idimobiliaria": 155,
+    "idcorretor": null,
+    "idsituacao": "1",
+    "codigo": 200
+}
+
+{
+    "sucesso": true,
+    "id": 26,
+    "mensagem": "Lead já cadastrado, <b><a href=\"https://cury.cvcrm.com.br/gestor/comercial/leads/26/administrar\">clique aqui</a></b> para administrar.",
+    "idimobiliaria": 144,
+    "idcorretor": null,
+    "idsituacao": 1,
+    "codigo": 200
+}

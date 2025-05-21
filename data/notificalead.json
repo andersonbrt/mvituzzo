@@ -1,0 +1,23 @@
+{
+    "created": "2024-11-18T12:00:00Z",
+    "event_name": "exemplo_evento",
+    "user_id": 12345,
+    "lead": {
+        "name": "João Silva",
+        "phone": "+55 11 99999-9999",
+        "email": "joao.silva@email.com",
+        "obs": "Informação extra sobre o lead"
+    },
+    "midia": {
+        "channel": "Facebook",
+        "page": "Landing Page",
+        "property_id": "formulario_xyz",
+        "business": "Indefinido",
+        "url": "https://www.exemplo.com"
+    },
+    "broker": {
+        "broker_name": "Maria Oliveira",
+        "broker_whatsapp": "+55 11 98888-8888",
+        "broker_cpf": "123.456.789-00"
+    }
+}
