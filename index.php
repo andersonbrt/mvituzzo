@@ -49,7 +49,11 @@ switch ($requestUri) {
         $controller = new \App\Controllers\CallbackController();
         $controller->handleRequest();
         break;
-
+    
+    case '/test/callback': //Test
+        echo json_encode(["status" => 200, "message": "sucesso"]);
+        break;
+    
     default:
         echo "Página não encontrada!";
         break;
