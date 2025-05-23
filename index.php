@@ -51,7 +51,7 @@ switch ($requestUri) {
         break;
     
     case '/test/callback': //Test
-        echo json_encode(["status" => 200, "message": "sucesso"]);
+        echo json_encode(["status" => 200, "message" => "sucesso"]);
         break;
     
     default:
