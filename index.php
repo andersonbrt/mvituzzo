@@ -54,6 +54,10 @@ switch ($requestUri) {
         echo json_encode(["status" => 200, "message" => "sucesso"]);
         break;
     
+ case '/test/callbackdois': //Test 2
+        echo json_encode(["status" => 200, "message" => "sucesso 2"]);
+        break;
+    
     default:
         echo "Página não encontrada!";
         break;
